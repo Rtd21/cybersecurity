@@ -250,3 +250,9 @@ gagal login ketika mencoba login menggunakan username dan password 'or '1'='1, k
 
 login berhasil ketika menggunakan username dan password 'or '1'='1, karena kode dalam php tidak menggunakan prepared statement dan htmlspecialchars
 <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/1646cb8a-2e9b-4009-b182-cdaf9f761d1e" />
+
+---
+
+Sertifikat:
+1.[IDN sertifikat (RachmadTD-Cisco Dasar).pdf](https://github.com/user-attachments/files/24486369/IDN.sertifikat.RachmadTD-Cisco.Dasar.pdf)
+2.[IDN sertifikat (RachmadTD-Cyber Security Dasar).pdf](https://github.com/user-attachments/files/24486370/IDN.sertifikat.RachmadTD-Cyber.Security.Dasar.pdf)
