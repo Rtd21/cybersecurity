@@ -243,3 +243,10 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+
+Hasil skema SQL injection
+gagal login ketika mencoba login menggunakan username dan password 'or '1'='1, karena kode dalam php menggunakan prepared statement dan htmlspecialchars
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/4df785e3-8183-4dcd-966f-6b87adbd5452" />
+
+login berhasil ketika menggunakan username dan password 'or '1'='1, karena kode dalam php tidak menggunakan prepared statement dan htmlspecialchars
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/1646cb8a-2e9b-4009-b182-cdaf9f761d1e" />
